@@ -29,7 +29,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Start Bootstrap</span>
+        <span class="d-block d-lg-none">Julio Trujillo</span>
         <span class="d-none d-lg-block">
           <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
         </span>
@@ -43,17 +43,17 @@
             <a class="nav-link js-scroll-trigger" href="#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#experience">Work Experience</a>
+            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+            <a class="nav-link js-scroll-trigger" href="#idioms">Idioms</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#experience">Work Experience</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#training">Further Training</a>
           </li>
-          <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#idioms">Idioms</a>
-            </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
           </li>
@@ -72,7 +72,7 @@
             <span class="text-primary">Julio</span>
           </h1>
           <div class="subheading mb-5">Rinconada Sur 1-85, Rinconada del Aire · Zapopan, Jal. 45138 · (393) 107-5692 ·
-            <a href="mailto:name@email.com">t.a.j@outlook.com</a>
+            <a href="mailto:t.a.j@outlook.com">t.a.j@outlook.com</a>
           </div>
           <p class="mb-5">I am experienced in the IT sectors, trying to incorporate working positive aptitudes. With expectatives of growing in a profesional and personal level. With knowledge in web and desktop programming.</p>
           <ul class="list-inline list-social-icons mb-0">
@@ -112,6 +112,48 @@
         </div>
       </section>
 
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
+        <div class="my-auto">
+          <h2 class="mb-5">Education</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+              <div class="resume-content mr-auto">
+                <h3 class="mb-0">Generation</h3>
+                <div class="subheading mb-3">Java Backend</div>
+                <div>Program for training in basic skills of application development logic, fully adapted to the needs of the main employers in the industry.</div>
+              </div>
+              <div class="resume-date text-md-right">
+                <span class="text-primary">June 2018 - September 2018</span>
+              </div>
+            </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Develop Talent &amp; Technology</h3>
+              <div class="subheading mb-3">Oracle Certified Java SE 6 Programmer </div>
+              <div>An Oracle Certified Professional, Java SE 6 Programmer has experience using the Java programming language, understands the basic syntax and structure of the Java programming language and can create Java technology applications that run on server and desktop systems using J2SE 6.0</div>
+              <p>GPA: 71%</p>
+              <a href="https://www.youracclaim.com/badges/4945b65d-2bc3-4ec0-8131-6689cb23ca12/public_url" target="_blank">Oracle Badge</a>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">August 2015 - November 2015</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Universidad de Guadalajara - CUCIENEGA, Ocotlán, Jalisco</h3>
+              <div class="subheading mb-3">Licenciatura en Ingeniería en Computación</div>
+              <div>CUCIENEGA has trained excellent engineers and engineers in the Digital Systems and Base Software Area, mainly for scientific and technological development.</div>
+              <p>GPA: 91.21</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">August 2010 - December 2014</span>
+            </div>
+          </div>          
+        </div>
+      </section>
+      
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
         <div class="my-auto">
           <h2 class="mb-5">Work Experience</h2>
@@ -126,12 +168,12 @@
                   <li>Capacitation and implementation to clients (Appministra®)</li>
                   <li>Delivery of equipment given by Goverment to benefited persons</li>
                   <li>Creation, tracing and acceptance tests of bugs using MantisLog®</li>
-                  <li>Creation, tracing and closing of tickets client’s using Freshdesk®</li>
+                  <li>Creation, tracing and closing of ticket's client using Freshdesk®</li>
                   <li>Documentation about innovations on the system (ERS)</li>
               </ul>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">January 2017 – June 2018</span>
+              <span class="text-primary">January 2017 - June 2018</span>
             </div>
           </div>
 
@@ -141,14 +183,14 @@
               <div class="subheading mb-3">CONTPAQi® - Guadalajara, Jalisco</div>
               <ul>
                   <li>SLA Level 3 (CONTPAQi® Nóminas)</li>
-                  <li>Bug tracking with OTRS®</li>
+                  <li>Bug tracking with OTRSÂ®</li>
                   <li>Develop and resolution of new characteristics on the system using SQL and Delphi</li>
                   <li>Tracking on develops and the repositories of code using Visual Studio and TFS</li>
                   <li>Knowledge and application of Scrum to work with new characteristics and bug correction</li>
               </ul>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">December 2015 – October 2016</span>
+              <span class="text-primary">December 2015 - October 2016</span>
             </div>
           </div>
 
@@ -166,124 +208,47 @@
               </ul>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">February 2015 – November 2015</span>
+              <span class="text-primary">February 2015 - November 2015</span>
             </div>
           </div>
 
-          <div class="resume-item d-flex flex-column flex-md-row">
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Social Service</h3>
-              <div class="subheading mb-3">Centro de Autoacceso - Centro Universitario de la Ciénega, Ocotlán, Jalisco</div>
+              <h3 class="mb-0">Proyecto "Ventanilla Activos"</h3>
+              <div class="subheading mb-3">Centro Universitario de la Ciénega</div>
               <ul>
-                <li>Student Support</li>
-                <li>Receive and catalog lended books</li>
-                <li>Content creation of UDG platform</li>
-                <li>Didactical Content creation for English classes</li>
+                <li>Trabajé con PHP, Javascript y un framework llamado “LIGA”</li>
+                <li>Documenté los requerimientos de los usuarios</li>
+                <li>Trabajé con las vistas utilizando HTML, CSS y un framework para JS.</li>
+                <li>Tercer lugar en el concurso “Semana de las ciencias”</li>
               </ul>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">March 2013 – October 2013</span>
+              <span class="text-primary">August 2014 - October 2014</span>
             </div>
           </div>
-
-        </div>
-
-      </section>
-
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
-        <div class="my-auto">
-          <h2 class="mb-5">Education</h2>
-
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-              <div class="resume-content mr-auto">
-                <h3 class="mb-0">Generation</h3>
-                <div class="subheading mb-3">Java Backend</div>
-                <div>Programa para entrenamiento en capacidades básicas de lógica de desarrollo de aplicaciones, totalmente adaptado a las necesidades de los principales empleadores en la industria.</div>
-              </div>
-              <div class="resume-date text-md-right">
-                <span class="text-primary">June 2018 – September 2018</span>
-              </div>
-            </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Develop Talent &amp; Technology</h3>
-              <div class="subheading mb-3">Oracle Certified Java SE 6 Programmer </div>
-              <div>An Oracle Certified Professional, Java SE 6 Programmer has experience using the Java programming language, understands the basic syntax and structure of the Java programming language and can create Java technology applications that run on server and desktop systems using J2SE 6.0</div>
-              <p>GPA: 71%</p>
-              <a href="https://www.youracclaim.com/badges/4945b65d-2bc3-4ec0-8131-6689cb23ca12/public_url" target="_blank">Oracle Badge</a>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">August 2015 – November 2015</span>
-            </div>
-          </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Universidad de Guadalajara - CUCIÉNEGA, Ocotlán, Jalisco</h3>
-              <div class="subheading mb-3">Licenciatura en Ingeniería en Computación</div>
-              <div>CUCIENEGA ha formado excelentes ingenieros e ingenieras en el área de Sistemas Digitales y Software de Base, principalmente para el desarrollo científico y tecnológico.</div>
-              <p>GPA: 91.21</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">August 2010 - December 2014</span>
-            </div>
-          </div>
-          
-          <!--
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-              <div class="resume-content mr-auto">
-                <h3 class="mb-0">Universidad de Guadalajara - Escuela Preparatoria Regional de La Barca, La Barca, Jalisco</h3>
-                <div class="subheading mb-3">Bachillerato General</div>
-                <div>CUCIENEGA ha formado excelentes ingenieros e ingenieras en el área de Sistemas Digitales y Software de Base, principalmente para el desarrollo científico y tecnológico.</div>
-                <p>GPA: 94.53</p>
-              </div>
-              <div class="resume-date text-md-right">
-                <span class="text-primary">August 2010 - December 2014</span>
-              </div>
-            </div>
-          -->
         </div>
       </section>
-
+      
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="training">
           <div class="my-auto">
             <h2 class="mb-5">Further Training</h2>
             <ul class="fa-ul mb-0">
               <li>
                 <i class="fa-li fa fa-trophy text-warning"></i>
-                Training course and workshop “Introducción al lenguaje C”</li>
+                Training course and workshop ""Introducción al lenguaje C"</li>
               <li>
                 <i class="fa-li fa fa-trophy text-warning"></i>
-                Training course and workshop “LIGA” (PHP Framework)</li>
+                Training course and workshop "LIGA" (PHP Framework)</li>
               <li>
                 <i class="fa-li fa fa-trophy text-warning"></i>
                 Programming contest in Java at CUVALLES</li>
               <li>
                 <i class="fa-li fa fa-trophy text-warning"></i>
-                Project web application system “Ventanilla Alumnos Activos” </li>
+                Project web application system "Ventanilla Alumnos Activos" </li>
             </ul>
           </div>
-        </section>
-
-        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
-            <div class="my-auto">
-              <h2 class="mb-5">Idioms</h2>
-    
-              <div class="subheading mb-3">English</div>
-              <ul class="fa-ul mb-5">
-                <li>
-                  <i class="fa-li fa fa-check"></i>
-                  Intermediate</li>
-                <li>
-                  <i class="fa-li fa fa-check"></i>
-                  Certification TOEFL. Score: 560</li>
-              </ul>
-    
-    
-          </div>
-          </section>
-    
+        </section>    
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
         <div class="my-auto">
