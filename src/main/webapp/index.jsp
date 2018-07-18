@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
   <head>
-
-    <meta charset="utf-8">
+  
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -71,8 +71,7 @@
           <h1 class="mb-0">Trujillo
             <span class="text-primary">Julio</span>
           </h1>
-          <div class="subheading mb-5">Rinconada Sur 1-85, Rinconada del Aire · Zapopan, Jal. 45138 · (393) 107-5692 ·
-            <a href="mailto:t.a.j@outlook.com">t.a.j@outlook.com</a>
+          <div class="subheading mb-5">Rinconada Sur 1-85, Rinconada del Aire &middot; Zapopan, Jal. 45138 &middot; (393) 107-5692 &middot; <a href="mailto:t.a.j@outlook.com">t.a.j@outlook.com</a>
           </div>
           <p class="mb-5">I am experienced in the IT sectors, trying to incorporate working positive aptitudes. With expectatives of growing in a profesional and personal level. With knowledge in web and desktop programming.</p>
           <ul class="list-inline list-social-icons mb-0">
@@ -142,8 +141,8 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Universidad de Guadalajara - CUCIENEGA, Ocotlán, Jalisco</h3>
-              <div class="subheading mb-3">Licenciatura en Ingeniería en Computación</div>
+              <h3 class="mb-0">Universidad de Guadalajara - CUCIENEGA, Ocotl&aacute;n, Jalisco</h3>
+              <div class="subheading mb-3">Licenciatura en Ingenier&iacute;a en Computaci&oacute;n</div>
               <div>CUCIENEGA has trained excellent engineers and engineers in the Digital Systems and Base Software Area, mainly for scientific and technological development.</div>
               <p>GPA: 91.21</p>
             </div>
@@ -154,6 +153,14 @@
         </div>
       </section>
       
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="idioms">
+        <div class="my-auto">
+          <h2 class="mb-5">Idioms</h2>
+          <div class="subheading mb-3">English</div>
+          <div>Certification TOEFL. Score: 560.</div>
+        </div>
+      </section>
+      
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
         <div class="my-auto">
           <h2 class="mb-5">Work Experience</h2>
@@ -161,15 +168,15 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Consultant</h3>
-              <div class="subheading mb-3">Netwarmonitor® - Guadalajara, Jalisco</div>
+              <div class="subheading mb-3">Netwarmonitor&reg; - Guadalajara, Jalisco</div>
               <ul>
-                  <li>Client Service</li>
-                  <li>Help Desk to internal and external clients</li>
-                  <li>Capacitation and implementation to clients (Appministra®)</li>
-                  <li>Delivery of equipment given by Goverment to benefited persons</li>
-                  <li>Creation, tracing and acceptance tests of bugs using MantisLog®</li>
-                  <li>Creation, tracing and closing of ticket's client using Freshdesk®</li>
-                  <li>Documentation about innovations on the system (ERS)</li>
+                  <li>Client Service.</li>
+                  <li>Help Desk to internal and external clients.</li>
+                  <li>Capacitation and implementation to clients (Appministra®).</li>
+                  <li>Delivery of equipment given by Goverment to benefited persons.</li>
+                  <li>Creation, tracing and acceptance tests of bugs using MantisLog®.</li>
+                  <li>Creation, tracing and closing of ticket's client using Freshdesk®.</li>
+                  <li>Documentation about innovations on the system (ERS).</li>
               </ul>
             </div>
             <div class="resume-date text-md-right">
@@ -180,13 +187,13 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Software Engineer</h3>
-              <div class="subheading mb-3">CONTPAQi® - Guadalajara, Jalisco</div>
+              <div class="subheading mb-3">CONTPAQi&reg; - Guadalajara, Jalisco</div>
               <ul>
-                  <li>SLA Level 3 (CONTPAQi® Nóminas)</li>
-                  <li>Bug tracking with OTRSÂ®</li>
-                  <li>Develop and resolution of new characteristics on the system using SQL and Delphi</li>
-                  <li>Tracking on develops and the repositories of code using Visual Studio and TFS</li>
-                  <li>Knowledge and application of Scrum to work with new characteristics and bug correction</li>
+                  <li>SLA Level 3 (CONTPAQi&reg; N&oacute;minas).</li>
+                  <li>Bug tracking with OTRS&reg;.</li>
+                  <li>Develop and resolution of new characteristics on the system using SQL and Delphi.</li>
+                  <li>Tracking on develops and the repositories of code using Visual Studio and TFS.</li>
+                  <li>Knowledge and application of Scrum to work with new characteristics and bug correction.</li>
               </ul>
             </div>
             <div class="resume-date text-md-right">
@@ -197,14 +204,14 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Web Developer</h3>
-              <div class="subheading mb-3">TiendaPAQ® - Ocotlán, Jalisco</div>
+              <div class="subheading mb-3">TiendaPAQ&reg; - Ocotl&aacute;n, Jalisco</div>
               <ul>
-                <li>Client Service</li>
-                <li>Develop of a CRM usign CodeIgniter, PHP, Javascript, HTML and CSS.</li>
-                <li>Functional adaptations with JQuery</li>
-                <li>Code control management with GIT</li>
-                <li>Bug tracking BD with MySQL</li>
-                <li>Tool Configuration enviroment: PHPMyAdmin, Apache, Composer, Sublime, PHPStorm</li>
+                <li>I Offered client Service.</li>
+                <li>I Developed a CRM usign CodeIgniter, PHP, Javascript, HTML and CSS.</li>
+                <li>I Made functional adaptations with JQuery.</li>
+                <li>I Managed code control with GIT.</li>
+                <li>I Followed the Bug tracking BD with MySQL.</li>
+                <li>I Did Tool Configuration enviroment: PHPMyAdmin, Apache, Composer, Sublime, PHPStorm.</li>
               </ul>
             </div>
             <div class="resume-date text-md-right">
@@ -215,12 +222,12 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Proyecto "Ventanilla Activos"</h3>
-              <div class="subheading mb-3">Centro Universitario de la Ciénega</div>
+              <div class="subheading mb-3">Centro Universitario de la Ci&eacute;nega</div>
               <ul>
-                <li>Trabajé con PHP, Javascript y un framework llamado “LIGA”</li>
-                <li>Documenté los requerimientos de los usuarios</li>
-                <li>Trabajé con las vistas utilizando HTML, CSS y un framework para JS.</li>
-                <li>Tercer lugar en el concurso “Semana de las ciencias”</li>
+                <li>I worked with PHP, Javascript and a PHP framework "LIGA".</li>
+                <li>I made documentation over the requirements of users.</li>
+                <li>I implemented the views using HTML, CSS and a Javascript framework "LIGA".</li>
+                <li>I won the third place in the contest "Semana de las ciencias".</li>
               </ul>
             </div>
             <div class="resume-date text-md-right">
@@ -236,10 +243,10 @@
             <ul class="fa-ul mb-0">
               <li>
                 <i class="fa-li fa fa-trophy text-warning"></i>
-                Training course and workshop ""Introducción al lenguaje C"</li>
+                Training course and workshop "Introducci&oacute;n al lenguaje C"</li>
               <li>
                 <i class="fa-li fa fa-trophy text-warning"></i>
-                Training course and workshop "LIGA" (PHP Framework)</li>
+                Training course and workshop "LIGA" (PHP Framework)</li>
               <li>
                 <i class="fa-li fa fa-trophy text-warning"></i>
                 Programming contest in Java at CUVALLES</li>
@@ -319,7 +326,6 @@
             <i class="fa-li fa fa-check"></i>
             Persistense</li>
         </ul>
-
       </div>
       </section>
 
